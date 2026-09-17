@@ -102,4 +102,4 @@ Use `var(--phoenix-*)` CSS custom properties for any custom styles.
 
 | Brief | Status |
 |---|---|
-| [Credentials & API Keys Management](./credentials-page-brief.md) | Idea captured, layout TBD |
+| [Credentials & API Keys Management](./credentials-page-brief.md) | v1 shipped — see iteration log in the brief |
